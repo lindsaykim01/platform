@@ -1,0 +1,71 @@
+body {
+
+
+}
+
+.wrapper{
+display:  flex;
+justify-content: center;
+align-items: center;
+min-height: 100vh;
+}
+
+.airpodtext {
+	display: flex;
+	font-family: interstate, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	justify-content: center;
+	align-items: center;
+}
+
+.airpodtext_b{
+	display: flex;
+	font-family: interstate, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	justify-content: center;
+	align-items: center;
+
+}
+
+
+
+.menu {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 15%; 
+}
+.link{
+	float: left;
+	margin: 20px;
+}
+
+.text{
+	font-family: interstate, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 20px;
+
+}
+
+.logo{
+
+	padding-left: 10px; 
+}
+
+.instagram, .logo{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.instagram, .text{
+	font-size: 90%;
+}
